@@ -1,7 +1,13 @@
+body {
+	background-color: B978C4;
+}
 ol{
  color:purple; 
 }
 
 #sanfran{
   color:blue;
+}
+.listfont{
+	font-family: Arial;
 }
