@@ -24,6 +24,12 @@ left: 100px;
 	right:500;
 	margin-bottom:500;
 }
+#sidebar {
+	height: 75%;
+	width: 75%;
+	color: blue;
+	vertical-align: left;
+}
 
 #footer {
 	position: fixed;
