@@ -18,4 +18,5 @@ div {
 	margin-right: 5px;
 	float: bottom;
 	clear:both;
+	position: fixed;
 }
