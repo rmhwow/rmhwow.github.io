@@ -12,14 +12,8 @@ body { background-color: #0099FF;
 #content {
 padding-bottom: 3em;
 }
-#caption {
-	display: block;
-margin-left: auto;
-margin-right: auto;
-color: purple;
-font-size: 34px;
-}
-#ryan {
+
+.ryan {
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
