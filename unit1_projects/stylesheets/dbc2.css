@@ -20,9 +20,10 @@ font-size: 34px;
 left: 100px;
 }
 #ryan {
-	position:absolute;
-	right:500;
-	margin-bottom:500;
+	margin-top: 200px
+	margin-left: 300px
+	margin-right:500px;
+	margin-bottom:500px;
 }
 #sidebar {
 	height: 750px;
