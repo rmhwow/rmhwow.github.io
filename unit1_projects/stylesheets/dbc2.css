@@ -1,7 +1,8 @@
 
+
 body { background-color: #0099FF;
 }
-	div {
+	#header {
 	height: 500 px;
 	width: 500 px;
 	background-color: blue;
@@ -27,7 +28,6 @@ left: 100px;
 #footer {
 	height: 500 px;
 	width: 500 px;
-	margin-top: 20px;
 	margin-bottom: 500px;
 	margin-left: 5px;
 	margin-right: 5px;
