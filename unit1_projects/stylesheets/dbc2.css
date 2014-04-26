@@ -25,7 +25,7 @@ padding-bottom: 3em;
 h2 {
 	position: absolute;
 	top: 200px;
-	left: 0;
+	left: 50px;
 	width: 100%;
 }
 
@@ -34,8 +34,8 @@ h2 {
 position:fixed;
 color: purple;
 font-size: 34px;
-left: 100px;
-text-align: left;
+right:  100px;
+text-align: right;
 }
 
 #footer {
