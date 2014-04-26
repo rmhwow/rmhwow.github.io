@@ -1,5 +1,5 @@
 
-{ background-color: #0099FF;
+body { background-color: #0099FF;
 }
 	div {
 	height: 500 px;
@@ -14,7 +14,6 @@
 #footer {
 	height: 500 px;
 	width: 500 px;
-	background-color: blue;
 	margin-top: 20px;
 	margin-bottom: 500px;
 	margin-left: 5px;
