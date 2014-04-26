@@ -19,8 +19,8 @@ font-size: 34px;
 }
 #ryan {
 	position:absolute;
-	left:0;
-	top:0;
+	right:50;
+	margin-bottom:50;
 }
 
 #footer {
