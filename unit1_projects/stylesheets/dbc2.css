@@ -1,14 +1,17 @@
-div {
+
+{ background-color: #0099FF;
+}
+	div {
 	height: 500 px;
 	width: 500 px;
 	background-color: blue;
 	margin: auto;
 	border: 3px solid black;
 }
-#content{
+#content {
 
 }
-#footer{
+#footer {
 	height: 500 px;
 	width: 500 px;
 	background-color: blue;
