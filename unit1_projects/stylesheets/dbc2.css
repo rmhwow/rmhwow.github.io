@@ -16,4 +16,5 @@ div {
 	margin-bottom: 500px;
 	margin-left: 5px;
 	margin-right: 5px;
+	float: bottom;
 }
