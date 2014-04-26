@@ -1,10 +1,7 @@
-.wrap {
-	background-position: relative;
-	margin:0 auto;
-	border-width: 900px;
-}
-#header, #footer {
-	width:100%;
-	float: left;
-	color: green;
+div {
+	height: 500 px;
+	width: 500 px;
+	background-color: blue;
+	margin: auto;
+	border: 3px solid black;
 }
