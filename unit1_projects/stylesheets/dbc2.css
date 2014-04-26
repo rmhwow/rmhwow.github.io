@@ -27,8 +27,8 @@ left: 100px;
 #sidebar {
 	height: 750px;
 	width: 750px;
-	color: blue;
-	vertical-align: left;
+	color: green;
+	text-align: left;
 }
 
 #footer {
