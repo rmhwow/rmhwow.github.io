@@ -11,6 +11,18 @@ body { background-color: #0099FF;
 #content {
 
 }
+#caption {
+z-index:100;
+position:absolute;
+color: white;
+font-size: 34px;
+}
+#ryan {
+	position:absolute;
+	left:0;
+	top:0;
+}
+
 #footer {
 	height: 500 px;
 	width: 500 px;
