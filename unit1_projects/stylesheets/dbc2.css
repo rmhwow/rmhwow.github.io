@@ -13,9 +13,9 @@ body { background-color: #0099FF;
 padding-bottom: 3em;
 }
 #caption {
+	display: block;
 margin-left: auto;
 margin-right: auto;
-position:absolute;
 color: purple;
 font-size: 34px;
 }
