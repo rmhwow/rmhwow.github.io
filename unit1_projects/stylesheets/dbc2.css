@@ -30,9 +30,11 @@ position:absolute;
 color: purple;
 font-size: 34px;
 left: 100px;
+text-align: center;
 }
 
 #footer {
 	position: fixed;
 	bottom:0;
+	text-align: center;
 }
