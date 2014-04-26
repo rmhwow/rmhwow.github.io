@@ -13,11 +13,11 @@ body { background-color: #0099FF;
 padding-bottom: 3em;
 }
 #caption {
-z-index:100;
+margin-left: auto;
+margin-right: auto;
 position:absolute;
 color: purple;
 font-size: 34px;
-left: 100px;
 }
 #ryan {
 	display:block;
@@ -25,10 +25,11 @@ left: 100px;
 	margin-right: auto;
 }
 #sidebar {
-	height: 750px;
-	width: 750px;
-	color: green;
-	text-align: left;
+	z-index:100;
+position:absolute;
+color: purple;
+font-size: 34px;
+left: 100px;
 }
 
 #footer {
