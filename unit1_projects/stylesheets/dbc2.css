@@ -13,7 +13,10 @@ body { background-color: #0099FF;
 padding-bottom: 3em;
 }
 
-#caption{
+a:hover {
+	 color: blue;
+	 font-weight: bold;
+}#caption{
 
 }
 .ryan {
@@ -22,10 +25,7 @@ padding-bottom: 3em;
 	margin-right: auto;
 	
 }
-a:hover {
-	 color: blue;
-	 font-weight: bold;
-}
+
 
 h2 {
 	position: absolute;
@@ -35,8 +35,10 @@ h2 {
 }
 
 #sidebar {
-	height: 50px;
-	width: 50px;
+	top:0;
+	position: fixed;
+	height: 500px;
+	width: 500px;
 	background-color: purple;
 }
 
