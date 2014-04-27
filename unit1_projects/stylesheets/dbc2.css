@@ -14,7 +14,7 @@ padding-bottom: 3em;
 }
 .container {
 	color:#CC0000;
-	border: 2px dotted #3A5FCD;
+	border: 5px dotted #3A5FCD;
 }
 
 #caption{
@@ -47,7 +47,7 @@ h2 {
 
 #sidebar {
 	right:0px;
-	height: 500px;
+	height: 490px;
 	width: 250px;
 	background-color: blue;
 	border: 3px solid black;
