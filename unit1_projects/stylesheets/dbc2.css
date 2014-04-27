@@ -21,7 +21,7 @@ padding-bottom: 3em;
 	left:0px;
 	width: 300px;
 }
-a:hover {
+a:link {
 	 color: blue;
 	 font-weight: bold;
 }
