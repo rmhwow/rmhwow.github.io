@@ -12,6 +12,10 @@ body { background-color: #0099FF;
 #content {
 padding-bottom: 3em;
 }
+#container {
+	color:#CC0000;
+	border: 2px dotted #3A5FCD;
+}
 
 #caption{
 
