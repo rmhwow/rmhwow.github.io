@@ -3,3 +3,13 @@
 	text-align: center;
 	border: 5px dotted;
 }
+#picture{
+	left:0px;
+}
+#header{
+	height: 500 px;
+	width: 500 px;
+	background-color: blue;
+	margin: auto;
+	top: 0px;
+}
