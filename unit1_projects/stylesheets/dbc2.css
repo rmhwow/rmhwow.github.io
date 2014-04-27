@@ -22,8 +22,9 @@ padding-bottom: 3em;
 	margin-right: auto;
 	
 }
-.ryan:hover {
-	 href= http://www.imdb.com/name/nm0331516/
+a:hover {
+	 color: blue;
+	 font-weight: bold;
 }
 
 h2 {
