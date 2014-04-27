@@ -34,12 +34,7 @@ h2 {
 	left: 50px;
 	width: 100%;
 }
-#wrap{
-	margin: auto;
-	width: 300px;
-	overflow: hidden;
-	position: relative;
-}
+
 
 #sidebar {
 	right:0px;
