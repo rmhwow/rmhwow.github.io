@@ -43,11 +43,12 @@ h2 {
 #sidebar {
 	right:0px;
 	position: absolute;
-	height: 100%;
+	height: 500px;
 	width: 250px;
 	background-color: blue;
 	margin: auto;
 	border: 3px solid black;
+	float: right;
 }
 
 #footer {
