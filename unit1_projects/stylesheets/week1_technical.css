@@ -1,0 +1,11 @@
+div {
+	height: 500px;
+	width: 500px;
+	font-family: sans-serif;
+	background-color: #0099FF;
+}
+#footer {
+	position: fixed;
+	bottom:0;
+	text-align: center;
+}
