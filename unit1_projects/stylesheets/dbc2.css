@@ -13,16 +13,17 @@ body { background-color: #0099FF;
 padding-bottom: 3em;
 }
 
-a:hover {
-	 color: blue;
-	 font-weight: bold;
-}#caption{
+#caption{
 
 }
 .ryan {
 	display:block;
 	left:0px;
 	width: 300px;
+}
+a:hover {
+	 color: blue;
+	 font-weight: bold;
 }
 .writing {
 	text-align: center;
