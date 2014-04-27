@@ -33,12 +33,19 @@ h2 {
 	left: 50px;
 	width: 100%;
 }
+#wrap{
+	margin: auto;
+	width: 300px;
+	overflow: hidden;
+	position: relative;
+}
 
 #sidebar {
 	top:195px;
+float:right;
 	right:0px;
-	position: relative;
-	height: 500px;
+	position: absolute;
+	height: 100%;
 	width: 250px;
 	background-color: blue;
 	margin: auto;
