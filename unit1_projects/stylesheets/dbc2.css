@@ -20,7 +20,7 @@ padding-bottom: 3em;
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-	align:center;
+	
 }
 h2 {
 	position: absolute;
@@ -30,12 +30,11 @@ h2 {
 }
 
 #sidebar {
-	z-index:100;
-position:fixed;
-color: purple;
-font-size: 34px;
-right:  100px;
-text-align: right;
+	position:absolute;
+	right: 0px;
+	bottom: 0px;
+	top: 0px;
+	width: 100px;
 }
 
 #footer {
