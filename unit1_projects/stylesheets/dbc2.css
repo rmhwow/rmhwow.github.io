@@ -21,9 +21,8 @@ a:hover {
 }
 .ryan {
 	display:block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 500px;
+	left:0px;
+	width: 300px;
 }
 .writing {
 	text-align: center;
