@@ -36,7 +36,7 @@ h2 {
 
 #sidebar {
 	top:200px;
-	left:999px;
+	right:0px;
 	position: fixed;
 	height: 500px;
 	width: 250px;
