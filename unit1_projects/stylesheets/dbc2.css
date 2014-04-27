@@ -25,7 +25,9 @@ a:hover {
 	margin-right: auto;
 	width: 500px;
 }
-
+.writing {
+	text-align: center;
+}
 
 h2 {
 	position: absolute;
