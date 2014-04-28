@@ -24,9 +24,11 @@
 	display: table;
 }
 #sidebar {
-	background-color: red;
+	background-color: #780000;
 	min-width: 200px;
+	min-height: 500px;
 	display: table-cell;
+	position: fixed;
 }
 #footer{
 	bottom:0px;
