@@ -16,7 +16,7 @@
 	height: 2500px;
 	width: 700px;
 	background-color:#FFEBCD;
-	border: 3px solid black;
+	border: 3px dashed solid black;
 	text-align: center;
 	margin: 0 auto;
 	text-decoration: none;
