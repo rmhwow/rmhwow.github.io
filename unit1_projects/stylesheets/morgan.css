@@ -12,6 +12,10 @@
 	background-color: gray;
 	text-align: center;
 }
+#content{
+	color:gray;
+	border: 3px solid black;
+}
 #footer{
 	bottom:0px;
 	background-color: gray;
