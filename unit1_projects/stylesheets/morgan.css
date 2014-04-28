@@ -8,3 +8,9 @@
 	margin: auto;
 	border: 2px solid black;
 }
+#footer{
+	height: 300px;
+	bottom:0px;
+	background-color: white;
+	text-align: center;
+}
