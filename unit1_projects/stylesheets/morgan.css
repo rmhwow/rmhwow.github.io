@@ -15,7 +15,7 @@
 .content{
 	height: 300px;
 	width: 300px;
-	color:gray;
+	background-color:#FFEBCD;
 	border: 3px solid black;
 	text-align: center;
 }
