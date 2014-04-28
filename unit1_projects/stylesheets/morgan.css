@@ -1,16 +1,10 @@
-#background{
-	height:1200px;
-	width: 1600px;
+body.custom{
+	background: ('/unit1_projects/images/background-textures-black-texture-paper.jpg')
 }
-#header{
-	height: 300px;
-	width: 300px;
-	margin: auto;
-	border: 2px solid black;
+.custom #container{
+	margin-top: 2em;
+	margin-bottom: 2em; 
 }
-#footer{
-	height: 300px;
-	bottom:0px;
-	background-color: white;
-	text-align: center;
+.custom #page {
+	
 }
