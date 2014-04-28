@@ -12,13 +12,21 @@
 	background-color: gray;
 	text-align: center;
 }
-.content{
+.text{
 	height: 700px;
 	width: 500px;
 	background-color:#FFEBCD;
 	border: 3px solid black;
 	text-align: center;
 	margin: 0 auto;
+}
+#main_wrap{
+	display: table;
+}
+#sidebar {
+	background-color: red;
+	min-width: 200px;
+	display: table-cell;
 }
 #footer{
 	bottom:0px;
