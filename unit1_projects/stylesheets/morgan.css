@@ -12,11 +12,12 @@
 	background-color: gray;
 	text-align: center;
 }
-#content{
+.content{
 	height: 300px;
 	width: 300px;
 	color:gray;
 	border: 3px solid black;
+	text-align: center;
 }
 #footer{
 	bottom:0px;
