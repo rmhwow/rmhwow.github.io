@@ -15,7 +15,7 @@
 .text{
 	height: 2500px;
 	width: 700px;
-	background-color:#9E9090;
+	background-color:gray;
 	border: 3px dashed solid black;
 	text-align: center;
 	margin: 0 auto;
@@ -32,7 +32,7 @@ a:hover{
 	display: table;
 }
 #sidebar {
-	background-color: #9E9090;
+	background-color: gray;
 	min-width: 200px;
 	min-height: 720px;
 	display: table-cell;
