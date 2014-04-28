@@ -21,6 +21,10 @@
 	margin: 0 auto;
 	text-decoration: none;
 }
+.images{
+	height: 300px;
+	width: 300px;
+}
 #main_wrap{
 	display: table;
 }
