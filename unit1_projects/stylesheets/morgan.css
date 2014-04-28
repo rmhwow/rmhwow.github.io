@@ -4,10 +4,15 @@
 	background-attachment: fixed;
 
 }
-.custom #container{
-	margin-top: 2em;
-	margin-bottom: 2em; 
+#header{
+	height: 300px;
+	width: 300px;
+	margin: auto;
+	border: 2px solid black;
 }
-.custom #page {
-
+#footer{
+	height: 300px;
+	bottom:0px;
+	background-color: white;
+	text-align: center;
 }
