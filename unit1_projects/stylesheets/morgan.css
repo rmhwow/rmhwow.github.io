@@ -19,6 +19,7 @@
 	border: 3px solid black;
 	text-align: center;
 	margin: 0 auto;
+	text-decoration: none;
 }
 #main_wrap{
 	display: table;
