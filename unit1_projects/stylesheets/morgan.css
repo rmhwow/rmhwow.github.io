@@ -1,4 +1,4 @@
-body.custom{
+.custom{
 	background: ('/unit1_projects/images/background-textures-black-texture-paper.jpg')
 }
 .custom #container{
@@ -6,5 +6,5 @@ body.custom{
 	margin-bottom: 2em; 
 }
 .custom #page {
-	
+
 }
