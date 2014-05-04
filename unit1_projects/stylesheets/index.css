@@ -8,7 +8,12 @@ text-align:center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	width: 1020px;
-text-align: center;
+}
+#content{
+	text-align: center;
+	min-height: 300px;
+	min-width: 300px;
+	margin: 20%;
 }
 #sidebar{
 	background-color: teal;
