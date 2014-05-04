@@ -11,10 +11,12 @@ text-align:center;
 text-align: center;
 }
 .sidebar{
-	float: right;
-	width: 40%;
-	height:200px;
 	background-color: teal;
+	min-width: 200px;
+	min-height: 720px;
+	display: table-cell;
+	position: fixed;
+	float: right;
 	border: 2px dashed;
 }
 a:hover{
