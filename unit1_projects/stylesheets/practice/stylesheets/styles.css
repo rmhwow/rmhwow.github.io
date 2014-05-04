@@ -129,7 +129,8 @@ header:after {
 
 
 /* Famous Women */
-#famous div.woman {
+@media screen and (min-width: 320px) {
+  #famous div.woman {
   background-color: white;
   float: left;
   min-height: 250px;
@@ -147,10 +148,11 @@ header:after {
   margin: 1em auto;
   width: 100%;
 }
-
+}
 
 /* Organizations */
-#organizations {
+@media screen and (min-width: 320px) {
+  #organizations {
   clear: both;
 }
 
@@ -175,8 +177,9 @@ header:after {
 #organizations li:hover img {
   display: block;
 }
-
+}
 /* Fun Facts */
+@media screen and (min-width: 320px) {
 #facts ul {
   margin: 50px;
 }
@@ -186,7 +189,7 @@ header:after {
   margin-bottom: 1em;
   padding-left: 5px;
 }
-
+}
 
 
 /* Footer */
