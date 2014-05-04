@@ -1,6 +1,6 @@
 header{
 margin: 6%;
-padding-right: 300px
+float: right;
 text-align:center;
 }
 .custom{
