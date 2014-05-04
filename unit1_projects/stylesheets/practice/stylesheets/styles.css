@@ -81,10 +81,10 @@ h4 {
 
 
 /* Header */
+@media screen(min-width: 320px){ 
 header {
   background-color: #009D92;
   padding: 10px;
-  text-align: center;
 }
 header h1 {
   color: #FFEECC;
@@ -107,7 +107,7 @@ header:after {
   display: table;
   clear: both;
 }
-
+}
 
 /* Main */
 #main div {
