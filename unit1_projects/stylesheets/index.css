@@ -1,5 +1,7 @@
 header{
 margin: 6%;
+padding-right: 300px
+text-align:center;
 }
 .custom{
 	background-image: url('/unit1_projects/images/peacock.jpg');
