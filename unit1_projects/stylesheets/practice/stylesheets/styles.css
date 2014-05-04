@@ -81,7 +81,7 @@ h4 {
 
 
 /* Header */
-@media screen(min-width: 320px){ 
+@media screen and (min-width: 320px){ 
 header {
   background-color: #009D92;
   padding: 10px;
