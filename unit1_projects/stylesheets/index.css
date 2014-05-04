@@ -1,13 +1,15 @@
 header{
-margin: 6%;
-float: right;
-text-align:center;
+height: 600px;
+float:right;
+width: 300px;
+background-color: teal;
+position: inherit;
 }
 .custom{
 	background-image: url('/unit1_projects/images/peacock.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	width: 1020px;
+	width: 2020px;
 }
 #content{
 	text-align: center;
