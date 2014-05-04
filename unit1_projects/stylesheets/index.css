@@ -10,7 +10,7 @@ text-align:center;
 	width: 1020px;
 text-align: center;
 }
-.sidebar{
+#sidebar{
 	background-color: teal;
 	min-width: 200px;
 	min-height: 720px;
