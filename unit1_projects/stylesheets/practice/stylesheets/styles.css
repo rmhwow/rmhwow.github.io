@@ -93,7 +93,7 @@ header h1 {
   text-align: center;
 }
 header .nav {
-  float: right;
+  float: none;
   font-size: 1.2em;
   margin-left: 20px;
 }
