@@ -7,6 +7,16 @@ text-align:center;
 	background-image: url('/unit1_projects/images/peacock.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	width: 150%;
-
+	width: 1020px;
+text-align: center;
 }
+sidebar{
+	float: right;
+	width: 40%;
+	height:200px;
+	background-color: teal;
+	border: 2px dashed;
+}
+a:hover{
+	color:white;
+	}
