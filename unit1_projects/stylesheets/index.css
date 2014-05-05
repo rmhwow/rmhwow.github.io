@@ -9,13 +9,13 @@
 	width: 1500px;
 	margin: auto;
 	border: 2px solid black;
-	background-color: gray;
+	background-color: purple;
 	text-align: center;
 }
 .text{
-	height: 2500px;
+	height: 500px;
 	width: 700px;
-	background-color:gray;
+	background-color:purple;
 	border: 3px dashed solid black;
 	text-align: center;
 	margin: 0 auto;
@@ -32,15 +32,16 @@ a:hover{
 	display: table;
 }
 #sidebar {
-	background-color: gray;
+	background-color: purple;
 	min-width: 200px;
-	min-height: 720px;
+	min-height: 500px;
 	display: table-cell;
 	position: fixed;
 	float: left;
+	text-decoration: none;
 }
 #footer{
 	bottom:0px;
-	background-color: gray;
+	background-color: purple;
 	text-align: center;
 	position: fixed;
