@@ -13,8 +13,9 @@ position: inherit;
 }
 #content{
 	text-align: center;
-	min-height: 300px;
-	min-width: 300px;
+	height: 300px;
+	width: 400px;
+	background-color:white; 
 	margin: 20%;
 }
 #sidebar{
