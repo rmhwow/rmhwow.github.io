@@ -3,7 +3,7 @@ height: 600px;
 float:right;
 width: 300px;
 background-color: teal;
-position: inherit;
+position: fixed;
 }
 .custom{
 	background-image: url('/unit1_projects/images/peacock.jpg');
@@ -15,18 +15,10 @@ position: inherit;
 	text-align: center;
 	height: 300px;
 	width: 400px;
-	background-color:white; 
+	background-color:teal; 
 	margin: 20%;
 }
-#sidebar{
-	background-color: teal;
-	min-width: 200px;
-	min-height: 720px;
-	display: table-cell;
-	position: fixed;
-	float: right;
-	border: 2px dashed;
-}
+
 a:hover{
 	color:white;
 	}
