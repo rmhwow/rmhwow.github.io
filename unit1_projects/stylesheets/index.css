@@ -5,16 +5,16 @@
 
 }
 #header{
-	height: 50px;
+	height: 100px;
 	width: 1500px;
 	margin: auto;
 	background-color:#FF3385 ;
 	text-align: center;
 }
 .text{
-	height: 50%;
+	height: 90%;
 	width: 30%;
-	background-color: #FFC2E0;
+	background-color: #FF9999;
 	border: 3px dashed solid black;
 	text-align: center;
 	margin: 0 auto;
@@ -22,7 +22,7 @@
 	float: center;
 }
 a:hover{
-	color:red;
+	color:#FF3385;
 	font-weight: bold;
 	text-decoration:none; 
 }
