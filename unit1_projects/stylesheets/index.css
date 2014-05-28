@@ -1,12 +1,11 @@
 .custom{
-	background-color: #FFCC99;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-color: white;
+	
 
 }
 #header{
 	height: 100px;
-	width: 1500px;
+	width: 1550px;
 	margin: auto;
 	background-color:#FF3385 ;
 	text-align: center;
