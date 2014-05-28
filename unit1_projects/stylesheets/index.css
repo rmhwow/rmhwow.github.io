@@ -23,13 +23,10 @@ a:hover{
 	text-decoration:none; 
 }
 
-#main_wrap{
-	display: table;
-}
+
 #sidebar {
 	min-width: 140px;
 	min-height: 20px;
-	display: table-cell;
 	
 	float: right;
 	text-decoration: none;
