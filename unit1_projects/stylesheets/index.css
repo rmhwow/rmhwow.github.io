@@ -28,7 +28,7 @@ a:hover{
 }
 #sidebar {
 	min-width: 140px;
-	min-height: 100px;
+	min-height: 50px;
 	display: table-cell;
 	
 	float: right;
