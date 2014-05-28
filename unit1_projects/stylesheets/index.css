@@ -1,5 +1,5 @@
 .custom{
-	background-image: url('/unit1_projects/images/background-textures-black-texture-paper.jpg');
+	background-color: #FFCC99;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 
@@ -9,13 +9,13 @@
 	width: 1500px;
 	margin: auto;
 	border: 2px solid black;
-	background-color: ##95B9C7;
+	background-color: #FFC2E0;
 	text-align: center;
 }
 .text{
 	height: 50%;
 	width: 30%;
-	background-color: #95B9C7;
+	background-color: #FF3385;
 	border: 3px dashed solid black;
 	text-align: center;
 	margin: 0 auto;
@@ -32,7 +32,7 @@ a:hover{
 	display: table;
 }
 #sidebar {
-	background-color: #95B9C7;
+	background-color: #FFC2E0;
 	min-width: 200px;
 	min-height: 500px;
 	display: table-cell;
@@ -42,6 +42,6 @@ a:hover{
 }
 #footer{
 	bottom:0px;
-	background-color: #95B9C7;
+	background-image: url(http://www.bighdwallpapers.com/walls/paris-fb-timeline-other.jpg);
 	text-align: center;
 	position: fixed;
