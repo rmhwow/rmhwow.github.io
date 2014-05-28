@@ -5,7 +5,6 @@
 #header{
 	height: 100px;
 	width: 1200px;
-	
 	background-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg');
 	background-repeat: no-repeat;
 	text-align: center;
@@ -15,7 +14,6 @@
 	width: 1200px;
 	background-color:#FF70B8;
 	text-align: center;
-	margin: 0 auto;
 	text-decoration: none;
 	float: center;
 }
