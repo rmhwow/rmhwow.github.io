@@ -27,7 +27,6 @@ a:hover{
 	display: table;
 }
 #sidebar {
-	background-color: #FFCC99;
 	min-width: 140px;
 	min-height: 500px;
 	display: table-cell;
