@@ -1,13 +1,12 @@
 .custom{
-	background-color: white;
-	
+	background-color: #FFF0F0;
 
 }
 #header{
 	height: 100px;
 	width: 1550px;
 	margin: auto;
-	background-color:#FF3385 ;
+	background-color:#FFADD6;
 	text-align: center;
 }
 .text{
