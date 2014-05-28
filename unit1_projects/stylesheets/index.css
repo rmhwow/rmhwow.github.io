@@ -30,7 +30,7 @@ a:hover{
 	min-width: 140px;
 	min-height: 500px;
 	display: table-cell;
-	position: fixed;
+	
 	float: right;
 	text-decoration: none;
 }
