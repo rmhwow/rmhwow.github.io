@@ -32,8 +32,12 @@ a:hover{
 	text-align: center;
 	float: center;
 	text-decoration: none;
-	list-style-type: none;
-	list-style-position: none;
+}
+#sidebar ul{
+	list-style: none;
+}
+#sidebar li{
+	display: inline;
 }
 #footer{
 	bottom:0px;
