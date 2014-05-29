@@ -29,7 +29,7 @@ a:hover{
 #sidebar {
 	min-width: 140px;
 	min-height: 20px;
-	
+	text-align: center;
 	float: center;
 	text-decoration: none;
 }
