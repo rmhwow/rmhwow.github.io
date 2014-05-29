@@ -6,7 +6,7 @@
 	height: 100px;
 	width: 1200px;
 	background-image: url('http://s2.hubimg.com/u/7892783_f496.jpg');
-	background-repeat: repeat-y;
+	background-repeat: repeat;
 	text-align: center;
 	margin: auto;
 }
@@ -67,4 +67,4 @@ a:hover{
 	text-align: center;
 	font-size: 20px;
 	background-image: url('http://s2.hubimg.com/u/7892783_f496.jpg');
-	background-repeat: repeat-y;
+	background-repeat: repeat;
