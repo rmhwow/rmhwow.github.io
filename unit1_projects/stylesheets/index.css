@@ -17,7 +17,6 @@
 	text-align: center;
 	text-decoration: none;
 	float: center;
-	margin: auto;
 }
 a:hover{
 	color:#FF3385;
@@ -42,6 +41,8 @@ a:hover{
 }
 #footer{
 	bottom:0px;
+	height: 500px;
 	width: 1200px;
+	margin: auto;
 	background-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg');
 	text-align: center;
