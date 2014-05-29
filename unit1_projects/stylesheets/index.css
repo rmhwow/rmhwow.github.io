@@ -14,13 +14,13 @@
 	height: 2000px;
 	width: 1200px;
 	background-color:#FFF0F0;
-	text-align: center;
-	text-decoration: none;
 	float: center;
 	margin: auto;
 }
 .text{
-	background-color: 
+	text-align: center;
+	text-decoration: none;
+	float: center; 
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-bottom: 20px;
