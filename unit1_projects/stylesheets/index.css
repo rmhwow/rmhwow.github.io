@@ -10,14 +10,10 @@
 	text-align: center;
 	margin: auto;
 }
-.ballet{
+
+.text{
 	height: 2000px;
 	width: 1200px;
-	background-color:#FFF0F0;
-	float: center;
-	margin: auto;
-}
-.text{
 	text-align: center;
 	text-decoration: none;
 	float: center; 
@@ -25,8 +21,10 @@
 	padding-right: 20px;
 	padding-bottom: 20px;
 	padding-top: 20px;
-	background-color: #3385FF;
+	padding-color: green;
 	margin: auto;
+	border-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg')
+	background-color:blue;
 }
 a:hover{
 	color:#FF3385;
