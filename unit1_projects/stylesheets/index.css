@@ -1,5 +1,5 @@
 .custom{
-	background-color: #FFF0F0;
+	background-color: #3385FF;
 
 }
 #header{
@@ -13,7 +13,7 @@
 .text{
 	height: 2600px;
 	width: 1200px;
-	background-color:#1975FF;
+	background-color:#FFF0F0;
 	text-align: center;
 	text-decoration: none;
 	float: center;
@@ -32,7 +32,6 @@ a:hover{
 	text-align: center;
 	float: center;
 	text-decoration: none;
-	background-color: #1975FF;
 }
 #sidebar ul{
 	list-style: none;
