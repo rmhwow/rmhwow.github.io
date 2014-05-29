@@ -12,7 +12,7 @@
 }
 
 .text{
-	height: 2000px;
+	height: 1000px;
 	width: 1200px;
 	text-align: center;
 	text-decoration: none;
@@ -24,7 +24,7 @@
 	padding-color: green;
 	margin: auto;
 	border-color:green; 
-	background-color: red;
+	background-color: green;
 }
 a:hover{
 	color:#FF3385;
