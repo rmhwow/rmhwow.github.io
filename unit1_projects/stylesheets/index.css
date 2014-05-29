@@ -29,6 +29,9 @@
 	top:200px;
 	margin: auto;
 }
+#text .text1 ul{
+	list-style: none;
+}
 a:hover{
 	color:#FF3385;
 	font-weight: bold;
