@@ -24,7 +24,7 @@
 	text-align: center;
 	text-decoration: none;
 	background-color: #FFCCCC;
-	height: 1000px;
+	height: 800px;
 	width: 800px;
 	top:200px;
 	margin: auto;
@@ -61,7 +61,7 @@ a:hover{
 }
 #footer{
 	bottom:0px;
-	height: 100px;
+	height: 200px;
 	width: 1200px;
 	margin: auto;
 	background-image: url('http://static.tumblr.com/cf627ab55e6905cf7488aea8e22f40ff/tqlqezi/a7gmn2pkq/tumblr_static_tumblr_mflwr6cwoo1rxrrr0o1_500.jpg');
