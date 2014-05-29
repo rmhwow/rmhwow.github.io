@@ -5,7 +5,7 @@
 #header{
 	height: 100px;
 	width: 1200px;
-	background-image: url('http://s2.hubimg.com/u/7892783_f496.jpg');
+	background-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg');
 	background-repeat: repeat;
 	text-align: center;
 	margin: auto;
@@ -56,9 +56,8 @@ a:hover{
 #sidebar li{
 	display: inline;
 	padding-right: 30px;
-	
+	}
 
-}
 #footer{
 	bottom:0px;
 	height: 100px;
@@ -66,5 +65,6 @@ a:hover{
 	margin: auto;
 	text-align: center;
 	font-size: 20px;
-	background-image: url('http://s2.hubimg.com/u/7892783_f496.jpg');
-	background-repeat: repeat;
+	background-image: url('http://s5.favim.com/orig/54/ballet-love-Favim.com-520898.jpg');
+	background-repeat: no-repeat;
+}
