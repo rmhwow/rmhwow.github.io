@@ -11,20 +11,21 @@
 	margin: auto;
 }
 
-.text{
+#text{
 	height: 1000px;
 	width: 1200px;
-	text-align: center;
-	text-decoration: none;
+	background-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg');
 	float: center; 
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-	padding-top: 20px;
-	padding-color: green;
 	margin: auto;
 	border-color:green; 
+	
+}
+#text.text1 {
+	text-align: center;
+	text-decoration: none;
 	background-color: green;
+	min-height: 500px;
+	min-width: 800px;
 }
 a:hover{
 	color:#FF3385;
