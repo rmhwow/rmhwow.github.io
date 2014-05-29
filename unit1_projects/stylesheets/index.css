@@ -23,8 +23,7 @@
 	padding-top: 20px;
 	padding-color: green;
 	margin: auto;
-	border-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg')
-	background-color:blue;
+	border-color:green; 
 }
 a:hover{
 	color:#FF3385;
