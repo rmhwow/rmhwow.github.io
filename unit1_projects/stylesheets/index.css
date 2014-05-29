@@ -10,13 +10,22 @@
 	text-align: center;
 	margin: auto;
 }
-.text{
+.ballet{
 	height: 2000px;
 	width: 1200px;
 	background-color:#FFF0F0;
 	text-align: center;
 	text-decoration: none;
 	float: center;
+	margin: auto;
+}
+.text{
+	background-color: 
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background-color: #3385FF;
 	margin: auto;
 }
 a:hover{
