@@ -48,6 +48,7 @@ a:hover{
 	text-decoration: none;
 	font-family: Arial;
 	font-size: 20px;
+	font-color:white;
 }
 #sidebar ul{
 	list-style: none;
@@ -55,14 +56,14 @@ a:hover{
 #sidebar li{
 	display: inline;
 	padding-right: 30px;
-	font-color:white;
-	background-image: url('http://static.tumblr.com/cf627ab55e6905cf7488aea8e22f40ff/tqlqezi/a7gmn2pkq/tumblr_static_tumblr_mflwr6cwoo1rxrrr0o1_500.jpg');
+	
+
 }
 #footer{
 	bottom:0px;
-	font-size: 18px;
 	height: 100px;
 	width: 1200px;
 	margin: auto;
-	background-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg');
-	text-align: center;
+	background-image: url('http://static.tumblr.com/cf627ab55e6905cf7488aea8e22f40ff/tqlqezi/a7gmn2pkq/tumblr_static_tumblr_mflwr6cwoo1rxrrr0o1_500.jpg');
+	background-repeat: none;
+	
