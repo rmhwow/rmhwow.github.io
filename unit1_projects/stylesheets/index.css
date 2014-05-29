@@ -13,7 +13,7 @@
 .text{
 	height: 2600px;
 	width: 1200px;
-	background-color:#FF70B8;
+	background-color:#1975FF;
 	text-align: center;
 	text-decoration: none;
 	float: center;
@@ -32,6 +32,7 @@ a:hover{
 	text-align: center;
 	float: center;
 	text-decoration: none;
+	background-color: #1975FF;
 }
 #sidebar ul{
 	list-style: none;
@@ -42,6 +43,6 @@ a:hover{
 }
 #footer{
 	bottom:0px;
-	background-image: url(http://www.bighdwallpapers.com/walls/paris-fb-timeline-other.jpg);
+	background-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg');
 	text-align: center;
 	position: fixed;
