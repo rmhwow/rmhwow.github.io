@@ -33,6 +33,9 @@
 #text .text1 ul{
 	list-style: none;
 }
+#text .text1 ol{
+	text-align: left;
+}
 a:hover{
 	color:#FF3385;
 	font-weight: bold;
