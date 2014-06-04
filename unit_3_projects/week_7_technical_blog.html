@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html> 
+<head> <title> Morgan's Website</title>
+<link rel="stylesheet" type="text/css" href="/unit1_projects/stylesheets/index.css"/> </head>
+<div id="header"> <h2> <span style=color:white><a href:"http://rmhwow.github.io/index.html"> Morgan O'Leary</a></span></h2> <h4 style= color:white> <em> Tech Blogs </em></h4>
+</div>
+<body class="custom">
+</body>
+  <div id="sidebar"> 
+<ul> 
+<li> <a href="http://rmhwow.github.io/index.html"/> Home </li>
+<li> <a href="http://rmhwow.github.io/cultural_blogs.html"/> Cultural Blogs </li>
+<li> <a href="http://rmhwow.github.io/other_challenges.html"/>  Other Challenges</a> </li>
+ </ul>
+   </div>
+
+<div id="text" style="text-decoration:none"> <div class ="text1"><h3 style="text-align:center"> <span style= color:#FF3385> SQL Injection</h3>
+	<h4> What is SQL Injection?</h4>
+	<p> Nobody likes a glitch, but worse is a hacker. SQL Injection is a code technique where malicious SQL statements are inserted into entry fields. One popular example of this is dump all the database contents to the attacker <a href ="http://xkcd.com/327/"/> as illustrated by this fun comic. </a>  It's considered one of the top attacks on web application. The five main sub-classes of SQL Injection Include:
+	<ol>
+		<li> Classic SQLI</li>
+		<li>Blind or Interference SQL Injections</li>
+		<li> Database management-system -specific SQLI</li>
+		<li>Compounded SQLI</li>
+		<ul>
+			<li> SQL injection + insufficient authentication</li>
+		<li> SQL injection + DDoS attacks</li>
+		<li> SQL injection + DNS hijacking</li>
+		<li> SQL injection + XXS</li>
+		</ul>
+	</ol> </p>
+	<h4> Houston, We Have a Problem</h4>
+	<p> So What's the big deal? Well, when a hacker writes malicious code it gives the hacker direct communication to your databases. This can allow the hacker to retrieve every bit of information stored in that database and wipe it out.  This can be done through email, login page, manipulating URLS etc.  Some of the most significant attacks include Storm Worm. An injection that attacked thousands of computers in 2007. In January of 2007 Storm Worm accounted for 8% of all malware infections GLOBALLY.  </p>
+
+	<h4> How it is done?</h4>
+	<p> As with everything, there is hope! In order to understand how we can prevent it, we need to look at the potential areas for hacking.  This can be anything where the web application would store user information.  A great example of this would be a login page.  For code purpposes the most important part of a login in page is the "username" and password
+
+		string sql= "SELECT * FROM User_login WHERE username = '"+username+'' and password = '"+password+"'
+This means that User_login is the datatable where username and password are stored. Now if someone put in 1=1;-- as the username and "<whatever you like>" They would be able to access someone's account. Reason being that when the code sees username= 1=1 that is automatically going to come back as true and the password is commented out. 
+	</p>
+<h4> How Can it Be Prevented?</h4>
+<p> While programmers continue working on this problem there are a few helpful hints to prevent attacks. 
+<ol> <li>Assume all end user input is hostile </li>
+<li> Don't have too detailed error messaging. It could make it easier for a hacker</li>
+<li> Minimize the input data length </li>
+<li>Don't depend on client side validation. It can definitely be bypassed</li></ol>
+</p>
+<h4> Helpful Articles To Learn More</h4>
+<ul> <li> <a href="http://www.stickyminds.com/sites/default/files/article/file/2013/XUS20976529file1_0.pdf"> SQL Injection for Newbie</a></li>
+	<li> <a href="https://www.acunetix.com/websitesecurity/sql-injection/"> What is SQL Injection</a></li>
+	<li> <a href="https://www.acunetix.com/websitesecurity/sql-injection2/"> SQL Injection Vulnerability</a></li>
+	<li> <a href="http://en.wikipedia.org/wiki/SQL_injection">Basic Wiki Info</a> </li>
+</ul>
+
+</div>
+</div>
+
+
+<div id="footer">
+ 
+</div>
+
+</html>
