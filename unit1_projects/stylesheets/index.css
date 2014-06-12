@@ -1,6 +1,5 @@
 .custom{
-	background-color: white;
-
+background-image: url('http://2.bp.blogspot.com/_oalwC3a4OAg/TANDqFQsjbI/AAAAAAAABS8/kpBHJhXxceY/s1600/Blog_Background.jpg');
 }
 #header{
 	height: 100px;
@@ -21,8 +20,7 @@
 #text{
 	height: 800px;
 	width: 1200px;
-	background-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg');
-	float: center; 
+	background-color: blue;
 	margin: auto;
 	border-color:green; 
 	
@@ -30,7 +28,7 @@
 #text .text1 {
 	text-align: center;
 	text-decoration: none;
-	background-color: #FFCCCC;
+	background-color: green;
 	height: 800px;
 	width: 800px;
 	top:200px;
