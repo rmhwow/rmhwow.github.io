@@ -1,5 +1,5 @@
 .custom{
-background-image: url('http://2.bp.blogspot.com/_oalwC3a4OAg/TANDqFQsjbI/AAAAAAAABS8/kpBHJhXxceY/s1600/Blog_Background.jpg');
+background-color: #00FFFF;
 }
 #header{
 	height: 300px;
@@ -8,11 +8,12 @@ background-image: url('http://2.bp.blogspot.com/_oalwC3a4OAg/TANDqFQsjbI/AAAAAAA
 	font-family: 'Lato';
 	font-size: 50px;
 	margin: auto;
+	background-color: #003399
 }
 #sidebar {
 	min-height: 100px;
 	width: 1200px;
-	background-color: green;
+	background-color: #585858 ;
 	margin: auto;
 	font-color:white;
 }
@@ -76,5 +77,5 @@ a:hover{
 }
 #footer li {
 	display: inline;
-	padding-right: 30px;
+	padding-right: 50px;
 }
