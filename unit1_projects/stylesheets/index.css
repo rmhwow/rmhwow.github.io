@@ -59,10 +59,10 @@ a:hover{
 	font-size: 20px;
 	font-color:white;
 }
-#sidebar ul{
+#header ul{
 	list-style: none;
 }
-#sidebar li{
+#header li{
 	display: inline;
 	padding-right: 30px;
 	}
