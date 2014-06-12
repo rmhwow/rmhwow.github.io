@@ -21,7 +21,7 @@ background-image: url('http://2.bp.blogspot.com/_oalwC3a4OAg/TANDqFQsjbI/AAAAAAA
 	height: 800px;
 	width: 1200px;
 	margin: auto;
-	
+	font-color:white;
 }
 #text .text1 {
 	text-align: center;
@@ -31,7 +31,7 @@ background-image: url('http://2.bp.blogspot.com/_oalwC3a4OAg/TANDqFQsjbI/AAAAAAA
 	width: 800px;
 	top:200px;
 	margin: auto;
-	font-color:#FF3385;
+	font-color:white;
 }
 #text .text1 ul{
 	list-style: none;
