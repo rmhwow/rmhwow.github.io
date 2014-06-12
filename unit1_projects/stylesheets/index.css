@@ -30,9 +30,8 @@ background-color: #00FFFF;
 	background-color: #003366;
 	height: 800px;
 	width: 800px;
-	top:200px;
-	margin: auto;
-	border-style: dashed;
+	margin-left: 600px
+	border:dashed;
 }
 #text .text1 ul{
 	list-style: none;
