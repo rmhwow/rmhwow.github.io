@@ -24,12 +24,12 @@ background-color: #66FFFF;
 	margin-left: 100px;
 	border:dashed;
 }
-#text .text1 {
+#text.text1 {
 	text-align: center;
 	text-decoration: none;
 	background-color: #003366;
 	height: 800px;
-	width: 800px;
+	width: 400px;
 	margin-top: 400px;
 	margin-left: 600px;
 }
