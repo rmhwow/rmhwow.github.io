@@ -20,8 +20,9 @@ background-color: #00FFFF;
 
 #text{
 	height: 800px;
-	width: 1200px;
-	margin: auto;
+	width: 400px;
+	margin-left: 150px;
+	border:dashed;
 }
 #text .text1 {
 	text-align: center;
@@ -31,6 +32,7 @@ background-color: #00FFFF;
 	width: 800px;
 	top:200px;
 	margin: auto;
+	border-style: dashed;
 }
 #text .text1 ul{
 	list-style: none;
