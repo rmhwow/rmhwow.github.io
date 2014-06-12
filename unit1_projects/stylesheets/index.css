@@ -21,17 +21,17 @@ background-color: #66FFFF;
 #text{
 	height: 800px;
 	width: 400px;
-	margin-left: 100px;
+	float: left;
 	border:dashed;
 }
 #text.text1 {
+	float: left;
 	text-align: center;
 	text-decoration: none;
 	background-color: #003366;
 	height: 800px;
 	width: 400px;
-	margin-top: 400px;
-	margin-left: 600px;
+	
 }
 #text .text1 ul{
 	list-style: none;
