@@ -1,13 +1,13 @@
 .custom{
-	background-color: #3385FF;
+	background-color: white;
 
 }
 #header{
 	height: 100px;
 	width: 1200px;
-	background-image: url('http://postcardsworldwide.wordpress.com/files/2008/12/blue-dancers-by-degas-von-starrysky-de.jpg');
-	background-repeat: repeat;
+	background-color: white;
 	text-align: center;
+	font-family: 'Lato';
 	margin: auto;
 }
 
