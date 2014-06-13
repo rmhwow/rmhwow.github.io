@@ -43,16 +43,15 @@ padding: 0;
 }
 #sidebar ul{
 	list-style: none;
-	padding-bottom: 50px;
+	padding-bottom: 100px;
 }
 
 #text{
-	height: 400px;
-	width: 800px;
+	height: 50%;
+	width: 50%;
 	border:dashed;
 	background-color:#009999;
-	margin-left: 300px;
-	margin-bottom: 200px;
+
 }
 
 a:hover{
