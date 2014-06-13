@@ -68,14 +68,7 @@ a:hover{
 	margin: 50px;
 	margin-left: 130px;
 	text-align: center;
-	font-size: 40px;
+	font-size: 20px;
 	background-color: #003366;
 	font-family: Cookie;
-}
-#footer ul {
-	list-style: none;
-}
-#footer li {
-	display: inline;
-	padding-right: 50px;
 }
