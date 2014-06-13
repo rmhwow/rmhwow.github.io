@@ -2,13 +2,12 @@
 background-color:#C0C0C0 ;
 }
 #header{
-	height: 250px;
+	height: 200px;
 	width: 1200px;
-	font-size: 75px;
+	font-size: 35px;
 	background-color: black;
 	margin-left: 75px;
 	font-family: Didot;
-	line-height: 40px;
 }
 #header p{
 	margin-left: 100px;
@@ -16,9 +15,9 @@ background-color:#C0C0C0 ;
 #header .header_line{
 	width:1200px;
 	height: 50px;
-	background-color: #003366;
+	background-color: black;
 	font-family: Didot;
-	font-size: 40px;
+	font-size: 20px;
 }
 .header_line ul{
 	list-style: none;
