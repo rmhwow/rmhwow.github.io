@@ -4,7 +4,7 @@ background-color:#C0C0C0 ;
 #header{
 	height: 200px;
 	width: 1200px;
-	font-size: 60px;
+	font-size: 100px;
 	background-color: #009999;
 	margin-left: 75px;
 	font-family: Cookie;
@@ -16,7 +16,7 @@ background-color:#C0C0C0 ;
 	width:1200px;
 	height: 50px;
 	background-color: #003366;
-	font-family: Arial;
+	font-family: Cookie;
 	font-size: 30px;
 }
 .header_line ul{
