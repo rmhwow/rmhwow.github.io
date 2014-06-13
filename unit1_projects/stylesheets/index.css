@@ -19,7 +19,7 @@ background-color:#C0C0C0 ;
 }
  .header_line li{
 	display: inline;
-	padding-right: 200px;
+	padding-left: 200px;
 	}
 
 #sidebar {
