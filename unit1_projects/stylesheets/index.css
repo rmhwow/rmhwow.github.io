@@ -8,7 +8,7 @@ background-color:#C0C0C0 ;
 	font-family: 'Lato';
 	font-size: 30px;
 	margin: auto;
-	background-color: #66FFFF;
+	background-color: #009999;
 }
 #header .header_line{
 	width:1200px;
@@ -26,24 +26,10 @@ background-color:#C0C0C0 ;
 #text{
 	height: 800px;
 	width: 400px;
-	float: left;
+	float: center
 	border:dashed;
 }
-#text.text1 {
-	float: left;
-	text-align: center;
-	text-decoration: none;
-	background-color: #003366;
-	height: 800px;
-	width: 400px;
-	
-}
-#text .text1 ul{
-	list-style: none;
-}
-#text .text1 ol{
-	text-align: left;
-}
+
 a:hover{
 	color:#003366;
 	font-weight: bold;
