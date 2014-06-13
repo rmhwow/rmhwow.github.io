@@ -6,15 +6,13 @@ background-color:#C0C0C0 ;
 	width: 1200px;
 	text-align: center;
 	font-size: 30px;
-	top:0px;
 	background-color: #009999;
 	margin-left: 75px;
 }
 #header .header_line{
 	width:1200px;
-	height: 30px;
+	height: 100px;
 	background-color: #003366;
-	top: 0px;
 }
 #sidebar {
 	min-height: 100px;
@@ -53,9 +51,6 @@ a:hover{
 	font-color:white;
 }
 #header .header_line ul{
-	height: 30px;
-	width:30px;
-	background-color: gray;
 	list-style: none;
 }
 #header .header_line li{
