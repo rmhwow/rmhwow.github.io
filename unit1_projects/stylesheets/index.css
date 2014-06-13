@@ -20,7 +20,11 @@ background-color:#C0C0C0 ;
  .header_line li{
 	display: inline;
 	padding-right: 30px;
+	height: 20px
+	width:40px;
+	background-color: gray;
 	}
+
 #sidebar {
 	min-height: 100px;
 	width: 1200px;
