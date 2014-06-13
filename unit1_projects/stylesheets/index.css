@@ -37,10 +37,11 @@ padding: 0;
 	min-height: 50px;
 	width: 200px;
 	background-color: #FFA3D1;
-	margin-top: 80px;
+	margin-top: 40px;
 	font-color:white;
 	position: fixed;
 	font-size: 25px;
+	float: left;
 }
 #sidebar ul{
 	list-style: none;
