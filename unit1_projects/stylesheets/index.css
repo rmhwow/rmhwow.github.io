@@ -1,6 +1,10 @@
 .custom{
 background-color:#C0C0C0 ;
 }
+html, body {
+	margin:0;
+	padding: 0;
+}
 #header{
 	font-size: 35px;
 	background-color: black;
