@@ -4,12 +4,12 @@ background-color:#C0C0C0 ;
 #header{
 	height: 200px;
 	width: 1200px;
-	font-size: 30px;
+	font-size: 40px;
 	background-color: #009999;
 	margin-left: 75px;
 }
 #header p{
-	margin-left: 40px;
+	margin-left: 100px;
 }
 #header .header_line{
 	width:1200px;
