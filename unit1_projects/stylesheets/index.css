@@ -26,6 +26,7 @@ padding: 0;
 .header_line ul{
 	list-style: none;
 	text-align: center;
+	text-decoration: none;
 }
  .header_line li{
 	display: inline;
@@ -44,6 +45,9 @@ padding: 0;
 #sidebar ul{
 	list-style: none;
 	padding-bottom: 100px;
+}
+#sidebar li{
+font-size: 30px;
 }
 
 #text{
