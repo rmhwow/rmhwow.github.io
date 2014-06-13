@@ -48,10 +48,10 @@ padding: 0;
 }
 
 #text{
-	height: 75%;
+	height: 100%;
 	width: 60%;
 	border:dashed;
-	background-color:#009999;
+	background-color:#white;
 	margin-left: 390px;
 }
 
