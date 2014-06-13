@@ -41,11 +41,8 @@ background-color:#C0C0C0 ;
 	height: 400px;
 	width: 800px;
 	border:dashed;
-	margin-top: 200px;
-	margin-left: 200px;
-	margin-right: 200px;
-	margin-bottom: 200px;
-	background-color:#009999 ;
+	margin: auto;
+	background-color:#009999;
 }
 
 a:hover{
