@@ -9,6 +9,9 @@ padding: 0;
 	width: 100%;
 	top: 0px;
 }
+#header img{
+	float: right;
+}
 #header_content{
 	margin-left: 75px;
 	font-family: Didot;
