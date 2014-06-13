@@ -34,7 +34,7 @@ padding: 0;
 	}
 
 #sidebar {
-	min-height: 100px;
+	min-height: 50px;
 	width: 200px;
 	background-color: #585858 ;
 	font-color:white;
@@ -60,19 +60,9 @@ a:hover{
 }
 
 
-#sidebar {
-	min-width: 140px;
-	min-height: 50px;
-	text-align: center;
-	float: center;
-	text-decoration: none;
-	font-family: Arial;
-	font-size: 20px;
-	font-color:white;
-}
-
 #footer{
 	bottom:0px;
+	position: fixed;
 	height: 55px;
 	width: 1200px;
 	margin: 50px;
