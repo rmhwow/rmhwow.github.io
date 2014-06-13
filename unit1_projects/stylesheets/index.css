@@ -52,10 +52,13 @@ a:hover{
 	font-size: 20px;
 	font-color:white;
 }
-#header ul{
+#header .header_line ul{
+	height: 30px;
+	width:30px;
+	background-color: gray;
 	list-style: none;
 }
-#header li{
+#header .header_line li{
 	display: inline;
 	padding-right: 30px;
 	}
