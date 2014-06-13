@@ -8,6 +8,7 @@ background-color:#C0C0C0 ;
 	font-size: 30px;
 	top:0px;
 	background-color: #009999;
+	float: center;
 }
 #header .header_line{
 	width:1200px;
