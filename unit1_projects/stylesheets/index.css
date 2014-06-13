@@ -35,10 +35,11 @@ padding: 0;
 
 #sidebar {
 	min-height: 100px;
-	width: 1200px;
+	width: 200px;
 	background-color: #585858 ;
-	margin: auto;
 	font-color:white;
+	float: left;
+	position: fixed;
 }
 
 #text{
