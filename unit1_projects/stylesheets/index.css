@@ -4,9 +4,8 @@ background-color:#C0C0C0 ;
 #header{
 	height: 150px;
 	width: 1200px;
-	text-align: left;
-	font-family: 'Lato';
-	font-size: 30px;
+	text-align: center;
+	font-size: 50px;
 	margin: auto;
 	background-color: #009999;
 }
@@ -26,8 +25,8 @@ background-color:#C0C0C0 ;
 #text{
 	height: 800px;
 	width: 400px;
-	float: center
 	border:dashed;
+	margin: auto;
 }
 
 a:hover{
