@@ -48,10 +48,9 @@ padding: 0;
 }
 
 #text{
-	height: 100%;
+	height: 200%;
 	width: 60%;
 	border:dashed;
-	background-color:#white;
 	margin-left: 390px;
 }
 
