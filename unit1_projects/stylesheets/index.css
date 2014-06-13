@@ -23,8 +23,8 @@ background-color:#C0C0C0 ;
 }
 
 #text{
-	height: 800px;
-	width: 400px;
+	height: 400px;
+	width: 800px;
 	border:dashed;
 	margin: auto;
 }
