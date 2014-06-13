@@ -26,7 +26,7 @@ background-color:#C0C0C0 ;
 	height: 400px;
 	width: 800px;
 	border:dashed;
-	margin: auto;
+	float: center;
 }
 
 a:hover{
