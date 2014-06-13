@@ -4,8 +4,8 @@ background-color:#C0C0C0 ;
 #header{
 	height: 100px;
 	width: 1200px;
-	text-align: center;
-	font-size: 30px;
+	text-align: left;
+	font-size: 25px;
 	background-color: #009999;
 	margin-left: 75px;
 }
