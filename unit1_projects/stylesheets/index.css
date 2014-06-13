@@ -4,7 +4,7 @@ background-color:#C0C0C0 ;
 #header{
 	height: 100px;
 	width: 1200px;
-	font-size: 40px;
+	font-size: 30px;
 	background-color: #009999;
 	margin-left: 75px;
 }
@@ -15,10 +15,11 @@ background-color:#C0C0C0 ;
 }
 .header_line ul{
 	list-style: none;
+	text-align: center;
 }
  .header_line li{
 	display: inline;
-	text-align: center;
+	padding-left: 50px;
 	}
 
 #sidebar {
