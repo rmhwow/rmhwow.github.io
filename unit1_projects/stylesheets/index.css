@@ -8,7 +8,7 @@ background-color:#C0C0C0 ;
 	font-size: 30px;
 	top:0px;
 	background-color: #009999;
-	float: center;
+	margin-left: 75px;
 }
 #header .header_line{
 	width:1200px;
@@ -28,10 +28,10 @@ background-color:#C0C0C0 ;
 	height: 400px;
 	width: 800px;
 	border:dashed;
-	margin-top: 100px;
-	margin-left: 100px;
-	margin-right: 100px;
-	margin-bottom: 100px;
+	margin-top: 200px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 200px;
 	background-color: white;
 }
 
