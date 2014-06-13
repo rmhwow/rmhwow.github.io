@@ -43,16 +43,13 @@ padding: 0;
 }
 #sidebar ul{
 	list-style: none;
+	padding-bottom: 50px;
 }
 
 #text{
 	height: 400px;
 	width: 800px;
 	border:dashed;
-	margin-top: 50px;
-	margin-bottom: 200px;
-	margin-left: 300px;
-	margin-right: 200px; 
 	background-color:#009999;
 }
 
