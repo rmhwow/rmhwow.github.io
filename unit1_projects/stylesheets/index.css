@@ -61,9 +61,6 @@ margin: 10px 0;
 #text ul{
 	list-style: none; 
 }
-#text li {
-	text-decoration: none;
-}
 
 a:hover{
 	color:#003366;
