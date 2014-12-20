@@ -1,0 +1,57 @@
+/*link on name to an about section */
+
+/*bar with about, projects, contact, resume */
+html { 
+  background: url("shamrock_background.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+#headerbar {
+	height: 80px;
+	width: 100%;
+	background-color: black;
+	opacity: 0.6;
+	visibility: visible;
+	
+}
+#logos {
+	position: relative;
+	right: 0;
+	top:0;
+}
+
+p {
+	font-size: 70px;
+	font-family: 'Cabin', sans-serif;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+
+
+ul{
+	display: block;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	font-size: 25px;
+}
+
+li{
+	display: inline-block;
+	width: 200px;
+	margin-top: 30px;
+}
+
+
+
