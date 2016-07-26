@@ -1,33 +1,34 @@
-<!DOCTYPE HTML>
-<html> 
-<head> <title> Morgan's Website</title>
-<link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href= "morgan_index.css"/>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset= "UTF-8">
+	<script type="index.js"></script>
+	<title>Morgan E. O'Leary, Web Developer</title>
 </head>
-
 <body>
-	
-<div id= "headerbar">	
-
- <ul>
-	 	<li> About</li>
-	 	<li> Projects</li>
-	 	<li> Resume </li>
-	 	<li>Contact</li>
-	 </ul>
-	</div>
-	
-		<p> Morgan O'Leary</p>
-		<h1><i>Web Developer</i></h1>
-
-<div id="logos"> 
-  <a href="https://twitter.com/morgan_oleary"><img src="http://i.picresize.com/images/2014/06/13/sOBgV.png" style="position: relative; top: -70px; left: 680px; z-index: 1;"/></a>
-
-<a href="www.linkedin.com/pub/morgan-o-leary/90/438/62a/"><img src="http://i.picresize.com/images/2014/06/13/yd0Lp.png" style="position: relative; top: -70px; left: 710px; z-index: 2;"/></a>
- 
-
- <a href="https://github.com/rmhwow"><img src="http://i.picresize.com/images/2014/06/13/2VUAs.png" style="position: absolute; top: -20px; left: 695px; z-index: 3;"/></a>
-</div>
-
+<style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: -34.397, lng: 150.644},
+          zoom: 8
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUYg6Uq31vShgArmkGDvP52vMzC4z37a4&callback=initMap"
+    async defer></script>
 </body>
 </html>
